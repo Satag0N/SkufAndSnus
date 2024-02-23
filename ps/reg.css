@@ -1,0 +1,37 @@
+#reg_form {
+  font-family: Calibri;
+  position: absolute;
+  top: 170px;
+  right: 470px;
+}
+#reg_form>button {
+  position: absolute;
+  right: 110px;
+}
+#reg_form>h1 {
+  position: absolute;
+  top: -60px;
+  right: 75px;
+}
+#reg_form>button>input {
+  font-size: 16px;
+}
+button {
+  background-color: white;
+  border: 3px solid black
+}
+button:hover {
+  background-color: black;
+  border: 3px solid white;
+}
+button>a {
+  color: black;
+  font-size: 16px;
+}
+button>a:hover {
+  color: white;
+  font-size: 16px;
+}
+a:link {
+  text-decoration: none;
+}

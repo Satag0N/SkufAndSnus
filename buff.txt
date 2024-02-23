@@ -1,0 +1,50 @@
+#top {
+  border: 3px solid green;
+  height: 28%;
+  width: 59%;
+  position: absolute;
+  right:13%;
+  top:0%;
+  line-height: 1.5em;
+  padding-left: 10px;
+  text-align: justify;
+  overflow: scroll;
+}
+#blog {
+  border: 3px solid green;
+  height: 72%;
+  width: 59%;
+  position: absolute;
+  top: 28%;
+  right: 13%;
+  padding-left: 10px;
+  text-align: justify;
+  overflow: scroll;
+}
+#auth {
+  position: absolute;
+  top: 0%;
+  left: 10%;
+  border: 3px solid black;
+  height: 50%;
+  width: 15.5%;
+  padding-left: 10px;
+}
+#links {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  border: 3px solid black;
+  height: 50%;
+  width: 15.5%;
+  padding-left: 10px;
+}
+#links>button {
+  width: 125px;
+  background-color: white;
+  border: 3px solid black;
+  padding: 10px;
+}
+body {
+  font-family: Helvetica;
+}
